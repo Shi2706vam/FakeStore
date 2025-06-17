@@ -20,4 +20,4 @@
     * Use useNavigate to navigate to another page showing details about the particular product using onClick.
 
 ### Live Demo Link :
-    
+    https://fake-store-smoky-two.vercel.app/
